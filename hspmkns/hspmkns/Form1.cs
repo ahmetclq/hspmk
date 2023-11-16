@@ -126,6 +126,11 @@ namespace hspmkns
             label1.Text = "0";
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            label1.Text = "";
+        }
+
         private void bunifuThinButton216_Click(object sender, EventArgs e)
         {
             ıslem = "/";
